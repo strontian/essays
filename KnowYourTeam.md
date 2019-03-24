@@ -65,11 +65,11 @@ A team operating with a major rift in belief is akin to driving a car whose engi
 
 This is not to say you should strive for agreement for its own sake, only that you should be aware of major rifts in belief. In my experience, working with people that see the world very differently than you is both powerful and enriching. Undoubtedly, you will operate in times of deep disagreement. How to handle that is surely interesting, but it’s outside the scope of this essay.
 
-Finally, Some Exercises to Try:
+### Finally, Some Exercises to Try:
 
 Here are some simple exercises that can help. They can be done periodically, and can be done at various levels of organization, for instance at the company level, or at a project level. I’m certain you can improve on them, and even more certain that there are better resources you can find. But hopefully they show how easy it can be.
 
-Exercise for understanding and aligning on Values:
+### Exercise for understanding and aligning on Values:
 
 1. All the stakeholders sit down together
 2. Take 10 minutes to write down your values - star the values are 'sacred' to you
@@ -81,13 +81,13 @@ Optionally, you can explore the intersection of your values and create a list of
 
 Optionally, if there is some noticeable dissonance between values, it may be worth trying to explore some scenarios where that value might be in play, and having a discussion about what you would do in that scenario. The goal being to detect a potential conflict.
 
-Exercise for understanding your teams’ preferences:
+### Exercise for understanding your teams’ preferences:
 
 You can do the same exercise as above, although some members may not wish to memorialize this information. For preference, it’s less important to have alignment among members, but it’s still important to have awareness of it so you can make plans and agreements accordingly.
 
 It’s important to think of preferences in the long term as well as the short term. For instance, if one partner wants to contribute weekends for one year and is willing to spend $X in total, another partner wants to work 60 hours a week for as long was it takes, and spend whatever they can, it’s worth spending some time thinking about what happens after one of those limits is breached and maybe even making an agreement that accounts for a failure case at that time.
 
-Tips for aligning on Beliefs:
+### Tips for aligning on Beliefs:
 
 As you make your plans, you will need to decide which goals to pursue, and develop plans to achieve them. Once you have some goals and plans written up, it’s worth passing them around to stakeholders and asking questions to try and detect large differences in belief.
 
@@ -98,7 +98,7 @@ Here are a few examples:
 * How likely are we to be able to successfully execute the plan?
 * How much will this plan cost(in money, time, risk, or other limiting resources)?
 
-Conclusion:
+### Conclusion:
 
 Writing this, I felt that this is a vastly important but often neglected subject, and this essay hardly scratches the surface. Nevertheless, I hope it inspired you to think about the nature of your collaborative relationships. And If you are starting a collaboration with other people, I hope you feel urged to know them better and use that knowledge to greater success.
 
