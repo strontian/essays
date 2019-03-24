@@ -1,6 +1,8 @@
+# Know Your Team
+
 This essay is about how getting to know the people you work with: what matters to them and how they think. Its goal is to convince you that cooperation is a skill you use all the time, and that actively working to understand the people you work with is a crucial part of that skill. We'll talk about a few different qualities of people and discusses why each is important. At the end there are some exercises you can use to get to know your team.
 
-Why Cooperation is so Important:
+### Why Cooperation is so Important:
 
 Everyone cooperates all the time. Buying an ice cream cone, spending the holidays with family, finding a software bug with coworkers, going on a date, getting hired at a new job, going to school. These activities all require coordinated effort with others.
 
@@ -8,7 +10,7 @@ Most interactions we take part in have been designed for us, we just need to fol
 
 Cooperation is a broad term, so we'll focus on only a couple activities: creating plans and making agreements. Let's look at how understanding the participants helps make better plans.
 
-How good a plan is depends on who’s doing it:
+### How good a plan is depends on who’s doing it:
 
 Consider the following plan: A person will move to LA for a year, spending a year's worth of living expenses, and work full time writing a script for a movie. Is it a good plan? The answer is obviously that it depends on who’s doing it. If the plan is for a fresh graduate with an accounting degree who hates writing and really wants to pay off her student loans, it might not be the best plan. For someone who has been dreaming of this for years, and doesn't mind the expense, perhaps it’s a perfect plan. Hopefully this point is obvious, but you can try imagining any other plan, even simple ones, and imagine placing different people into that plan and the same point will be true.
 
@@ -18,7 +20,7 @@ So how do you tell if it's a good plan? Hopefully, one of your first thoughts is
 
 But this leads to more questions: What's relevant to know? How can I learn it? How can I apply it?
 
-Challenges With Getting To Know People:
+### Challenges With Getting To Know People:
 
 There are a few challenges with getting to know people:
 
@@ -28,7 +30,7 @@ There are a few challenges with getting to know people:
 
 The following sections will attempt to address some of these problems by offering a few important qualities of people, and discussing why they may be relevant. We will cover three qualities of people: Preferences, Values, and Beliefs.
 
-Preferences are what you want to get from work, for example:
+**Preferences** are what you want to get from work, for example:
 
 * I want to avoid failure
 * I want to improve at skill X because I love it
@@ -37,7 +39,7 @@ Preferences are what you want to get from work, for example:
 
 Preferences are the simplest quality to communicate, understand and use. People have high awareness of them, and it’s usually not important to reach alignment on them. But they are still important when planning because they are relevant to what roles a member can fulfill, and how much they are willing or able to contribute. They are also important for making agreements among the members. 
 
-Values are what is important to you in your work, for example:
+**Values** are what is important to you in your work, for example:
 
 * It’s important to delight our customers
 * It’s important to be generous to employees with growth, safety, wealth, etc
@@ -48,7 +50,7 @@ Values are what is important to you in your work, for example:
 
 Values are important because they provide a powerful incentive to achieve your goals. Also, having a well developed and clear set of values serves as a heuristic for making decisions. This creates leverage because you can reduce the number of factors you need to consider(and disagree about) when making plans and decisions. A final and perhaps the most important reason to spend time building and communicating your values is that it inspires people to help and support you.
 
-Beliefs compose the model of reality you use to make predictions about the future, for example:
+**Beliefs** compose the model of reality you use to make predictions about the future, for example:
 
 * If this business doesn’t succeed in the first 6 months, it will never succeed
 * There’s no point in doing X because Y
